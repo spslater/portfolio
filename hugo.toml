@@ -1,0 +1,29 @@
+baseURL = 'https://spslater.com'
+languageCode = 'en-us'
+title = 'Sean Slater'
+
+theme = 'hyde'
+summaryLength = 7
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.highlight]
+  style = 'solarized-light'
+  lineNos = true
+
+[params]
+    description = "Software Engineer"
+    themeColor = "theme-base-0d"
+
+
+[Menus]
+    secondary = [
+        {Weight = 1, Title = "Projects", Identifier = "projects", Name = "programming", URL = "/projects"},
+        {Weight = 2, Title = "Resume", Identifier = "resumeweb", Name = "Web", URL = "/resume"},
+        {Weight = 3, Title = "Resume", Identifier = "resumepdf", Name = "PDF", URL = "/resume.pdf"}
+    ]
+    main = [
+        {Weight = 1, Title = "Email", Identifier = "email", Name = "sean@spslater.com", URL = "mailto:sean@spslater.com"},
+        {Weight = 2, Title = "Github", Identifier = "github", Name = "spslater", URL = "https://github.com/spslater"},
+        {Weight = 3, Title = "LinkedIn", Identifier = "linkedin", Name = "spslater", URL = "https://linkedin.com/in/spslater"}
+    ]
