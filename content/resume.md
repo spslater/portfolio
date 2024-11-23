@@ -16,7 +16,7 @@ date: 2024-11-22T05:44:29-05:00
 ### Go Go Gadjet *(Jun 2022 – Present)*
 * Set up stage for musical performance including music, lighting, and audio equipment
 * Drive box truck to and from performances up to 300 miles away
-* Repair equiment including soldering cables and wood work on cases
+* Repair equipment including soldering cables and wood work on cases
 * Facilitate video shoots by helping setup and gophering when needed
 
 ## Software Development Engineer
@@ -40,7 +40,7 @@ date: 2024-11-22T05:44:29-05:00
 <hr />
 
 # Skills
-{{< h_inline 3 >}}Languages:{{< /h_inline >}}
+{{< h_inline 3 >}}Languages: {{< /h_inline >}}
 {{% csv %}}
 * Python
 * Java
@@ -55,7 +55,7 @@ date: 2024-11-22T05:44:29-05:00
 
 <br />
 
-{{< h_inline 3 >}}Expertise:{{< /h_inline >}}
+{{< h_inline 3 >}}Expertise: {{< /h_inline >}}
 {{% csv %}}
 * Linux Admin (Docker, Apache)
 * MongoDB
