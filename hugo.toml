@@ -24,6 +24,6 @@ summaryLength = 7
     ]
     main = [
         {Weight = 1, Title = "Email", Identifier = "email", Name = "sean@spslater.com", URL = "mailto:sean@spslater.com"},
-        {Weight = 2, Title = "Github", Identifier = "github", Name = "spslater", URL = "https://github.com/spslater"},
+        {Weight = 2, Title = "GitHub", Identifier = "github", Name = "spslater", URL = "https://github.com/spslater"},
         {Weight = 3, Title = "LinkedIn", Identifier = "linkedin", Name = "spslater", URL = "https://linkedin.com/in/spslater"}
     ]
