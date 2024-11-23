@@ -1,6 +1,5 @@
 +++
 date = '2024-11-22T05:35:39-05:00'
-draft = true
 weight = 7
 title = 'Ergodox Ez Qmk Firmware'
 [params]

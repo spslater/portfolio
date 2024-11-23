@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 date: 2024-11-22T05:44:29-05:00
-draft: true
 ---
 
 

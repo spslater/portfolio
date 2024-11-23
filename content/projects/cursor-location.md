@@ -1,6 +1,5 @@
 +++
 date = '2024-11-22T05:35:13-05:00'
-draft = true
 weight = 1
 title = 'Cursor Location'
 [params]

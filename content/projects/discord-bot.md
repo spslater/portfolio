@@ -1,6 +1,5 @@
 +++
 date = '2024-11-22T05:38:02-05:00'
-draft = true
 weight = 4
 title = 'Discord Bot'
 [params]

@@ -1,6 +1,5 @@
 +++
 date = '2024-11-21T02:08:19-05:00'
-draft = true
 title = 'Landing'
 +++
 

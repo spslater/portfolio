@@ -1,6 +1,5 @@
 +++
 date = '2024-11-22T05:35:53-05:00'
-draft = true
 weight = 5
 title = 'Spats'
 [params]

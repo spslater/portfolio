@@ -1,6 +1,5 @@
 +++
 date = '2024-11-22T05:19:30-05:00'
-draft = true
 weight = 3
 title = 'Batch Renamer'
 [params]
